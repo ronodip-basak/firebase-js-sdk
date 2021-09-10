@@ -99,7 +99,7 @@ async function getFixedIssueLink(
     {
       method: 'GET'
     }
-  ).then(data => data.json());
+  ).then(data => data.json()) as { body: string };
 
   const match = fixedIssueRegex.exec(body);
   if (!match) {
