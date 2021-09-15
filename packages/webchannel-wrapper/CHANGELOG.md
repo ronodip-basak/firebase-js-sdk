@@ -1,5 +1,11 @@
 # @firebase/webchannel-wrapper
 
+## 0.5.2
+
+### Patch Changes
+
+- [`456d664ae`](https://github.com/firebase/firebase-js-sdk/commit/456d664aef582fc18326ffbd418de0d7d3ef86b7) [#5485](https://github.com/firebase/firebase-js-sdk/pull/5485) - Remove an unused option (`backgroundChannelTest`).
+
 ## 0.5.1
 
 ### Patch Changes

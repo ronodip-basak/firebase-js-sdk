@@ -1,5 +1,12 @@
 # @firebase/firestore-compat
 
+## 0.1.3
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @firebase/firestore@3.0.3
+
 ## 0.1.2
 
 ### Patch Changes
