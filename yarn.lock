@@ -10114,10 +10114,10 @@ karma-spec-reporter@0.0.32:
   dependencies:
     colors "^1.1.2"
 
-karma-summary-reporter@2.0.2:
-  version "2.0.2"
-  resolved "https://registry.npmjs.org/karma-summary-reporter/-/karma-summary-reporter-2.0.2.tgz#9fd15b92ab712409f4f935cc5854281e2091c92b"
-  integrity sha512-IyNf7ZYeJ7CJPORX8CYhED31dy3CZs5Wl+QqvlUl9tFZKKnk5nMaseU0e1BfFoWZdrF+Bl2m9/efUen98XeuOw==
+karma-summary-reporter@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.npmjs.org/karma-summary-reporter/-/karma-summary-reporter-3.0.0.tgz#b4c1d26437a46e5fdcb4b7be5277530eb9af9182"
+  integrity sha512-E8O18XzS1UZ+j5fd/MPKFhg+IvzxenHudfAXocrz3zVS/yfVmurHZvmCI/hHeNo4q6ItIA3yAUThh1ZIM7AkKw==
   dependencies:
     chalk "^4.0.0"
 
